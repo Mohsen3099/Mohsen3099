@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohsen3099
-- 👀 I’m interested in front-end 
+- 👀 I’m interested in python 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
